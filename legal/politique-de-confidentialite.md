@@ -1,17 +1,18 @@
 # Politique de confidentialité — Objectif Calories
 
-*Dernière mise à jour : [À COMPLÉTER — date de publication]*
+*Dernière mise à jour : 27 septembre 2026*
+
+> Source de travail — la version publiée (celle à donner à Google Play) est
+> [docs/index.html](../docs/index.html), servie par GitHub Pages. Garder les deux
+> synchronisées si l'une change.
 
 Objectif Calories est une application de suivi alimentaire. Cette page explique
 quelles données l'application traite, pourquoi, et comment elles sont protégées.
 
-**À compléter avant publication** (marqué `[À COMPLÉTER]` ci-dessous) : ton nom ou
-raison sociale, ton adresse e-mail de contact, l'URL une fois cette page hébergée.
-
 ## Éditeur
 
-[À COMPLÉTER — ton nom / raison sociale]
-Contact : [À COMPLÉTER — adresse e-mail]
+Antoine Legoueix
+Contact : twan.applis@gmail.com
 
 ## Aucun compte, aucune publicité, aucun traceur publicitaire
 
@@ -77,7 +78,7 @@ direct : tu peux les consulter et les supprimer dans l'application (chaque écra
 d'historique propose une suppression), ou tout effacer d'un coup en désinstallant
 l'app.
 
-Pour toute question sur cette politique, écris à [À COMPLÉTER — adresse e-mail].
+Pour toute question sur cette politique, écris à twan.applis@gmail.com.
 
 ## Modifications
 

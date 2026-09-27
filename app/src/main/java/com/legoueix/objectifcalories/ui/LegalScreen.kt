@@ -26,9 +26,7 @@ import com.legoueix.objectifcalories.BuildConfig
 import com.legoueix.objectifcalories.R
 import com.legoueix.objectifcalories.ui.theme.Terracotta
 
-// URL à renseigner une fois la politique de confidentialité hébergée (voir
-// legal/politique-de-confidentialite.md) — obligatoire pour la fiche Play Store.
-private const val URL_POLITIQUE_CONFIDENTIALITE = "https://TODO-remplace-par-ton-url"
+private const val URL_POLITIQUE_CONFIDENTIALITE = "https://skunitwan.github.io/objectif-calories/"
 private const val URL_OPEN_FOOD_FACTS = "https://openfoodfacts.org"
 private const val URL_CIQUAL = "https://ciqual.anses.fr"
 
