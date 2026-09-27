@@ -1,0 +1,7 @@
+name = "objectif-calories-relay"
+main = "mistral-relay.js"
+compatibility_date = "2024-11-01"
+
+# Secrets (jamais dans ce fichier, jamais commités) — à définir après déploiement :
+#   wrangler secret put MISTRAL_API_KEY
+#   wrangler secret put APP_SHARED_SECRET

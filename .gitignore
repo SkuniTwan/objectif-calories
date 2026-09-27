@@ -1,0 +1,25 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Les modules Gradle imbriqués (app/build, etc.) ont aussi leur dossier de sortie —
+# le seul "/build" ci-dessus n'est ancré qu'à la racine et ne les couvre pas.
+**/build/
+.kotlin/
+*.hprof
+*.apk
+*.aab
+
+# Clé de signature de release : jamais commitée. La perdre empêche toute mise à
+# jour future de l'app sur le Play Store sous la même fiche — à sauvegarder
+# ailleurs (gestionnaire de mots de passe, disque externe), pas seulement ici.
+/keystore/
+*.jks
+*.keystore

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Même teinte que le fond crème de l'app (voir ui/theme/Color.kt, OffWhite) :
+         couche de fond de l'icône adaptative, derrière le logo (voir mipmap-anydpi-v26). -->
+    <color name="ic_launcher_background">#FBF7F1</color>
+</resources>
